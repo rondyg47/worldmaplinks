@@ -1,0 +1,39 @@
+[
+	{
+		"key": "AM",
+		"latitude": -4.88,
+		"longitude": -65.34,
+		"name": "Alagoas"
+	},
+	{
+		"key": "BA",
+		"latitude": -12.24,
+		"longitude": -41.60,
+		"name": "Bahia"
+	},
+	{
+		"key": "CE - Quixeramobim",
+		"latitude": -5.11,
+		"longitude": -39.17,
+		"name": "Ceará"
+	},
+	{
+		"key": "CE - Juazeiro,
+		"latitude": -7.12,
+		"longitude": -39.18,
+		"name": "Ceará"
+	},
+	{
+		"key": "PE - Recife",
+		"latitude": -8.33,
+		"longitude": -34.52,
+		"name": "Pernambuco"
+	},
+	
+	{
+		"key": "PE - Pedra",
+		"latitude": -8.39,
+		"longitude": -36.52,
+		"name": "Pernambuco"
+	}
+]
